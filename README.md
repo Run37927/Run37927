@@ -1,5 +1,5 @@
 [![MasterHead](./img/readBanner.png)](https://hairun.netlify.app)
-<h2 align="center">This is where I'm supposed to bombard you with a plethora of geeky names of languages, but the inner rebel is coming out... So why don't we start with you instead?</h2>
+<h2 align="center">This is where I'm supposed to bombard you with a plethora of geeky names of languages, but the inner rebel is coming out... So why don't we start with you first?</h2>
 <h3 align="center"> It feels like you ...<h3>
 
 
