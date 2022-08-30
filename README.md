@@ -1,5 +1,5 @@
 [![MasterHead](./img/readBanner.png)](https://hairun.netlify.app)
-<h2 align="center">This is where I'm supposed to tell you I'm selft-motivated, passionate programmer who's looking for a job, but why do you care?... So I thought it'd be better if we start with you instead?</h2>
+<h2 align="center">This is where I'm supposed to tell you I'm selft-motivated, passionate programmer who's looking for a job, but why do you care?... So I thought it'd be better if we start with you instead...</h2>
 <h3 align="center"> It feels like you ...<h3>
 
 
