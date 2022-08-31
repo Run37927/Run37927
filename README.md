@@ -9,7 +9,6 @@
 
 - 🙏🏼 ...Want someone who takes ownership of themselves to join your team
 
-- 👉🏼 ...Laughs when you see a sophicated resume knowing coop students have only been coding for 3 days
 
 <p align="center"> Okay, so ...<p>
 
