@@ -10,10 +10,6 @@
 - 🙏🏼 ...Want someone who takes ownership of themselves to join your team
 
 
-<p align="center"> Okay, so ...<p>
-
-<p align="center">The bad news is... sure, I've only had one term of studying. But the good news is, hey isn't that amazing how much you can learn within such a short period of time? And in a school setting! Imagine bringing that drive and sponge mindset into the real world. As an employer, you can bet your bottom dollar on your ROI.</p>
-
 <p align="center"> Okay, but what do you know though?<p>
   
 <h3 align="left">Languages and Tools:</h3>
