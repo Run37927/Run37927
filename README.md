@@ -2,8 +2,6 @@
 
 📍 Vancouver, BC
 
-<img src="./img/IMG_1242.jpg" alt="Profile Picture" width="100" height="100" style="border-radius: 50%; border: 2px solid #EAB308; object-fit: cover;">
-
 I'm a labourer turned coder, currently building micro-saas products in public, documenting my journey on [Twitter](https://x.com/HairunHuang), and taking the indie hacker approach.
 
 ## Projects
