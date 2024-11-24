@@ -8,6 +8,7 @@ I'm a labourer turned coder, currently building micro-saas products in public, d
 
 So far, I have built:
 
+- [DailyQ](https://www.dailyq.xyz) - A tool to make your daily team standups less boring
 - [juniorOK](https://juniorok.io) - A job aggregator that helps new devs get entry-level jobs
 - [DevFolio](https://thedevfolio.xyz) - A portfolio builder for new CS grads
 - [Budget Eats](https://budget-eats.ca) - A social platform where you can find the best budget-friendly restaurants in Vancouver
