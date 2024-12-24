@@ -8,6 +8,7 @@ I'm a labourer turned coder, currently building micro-saas products in public, d
 
 So far, I have built:
 
+- [News Bear](https://www.newsbear.ca) - Your personalized British Columbia News
 - [Video2Blog](https://www.video2blog.xyz) - Convert your video/audio into blogs in a minute
 - [DailyQ](https://www.dailyq.xyz) - A tool to make your daily team standups less boring
 - [juniorOK](https://juniorok.io) - A job aggregator that helps new devs get entry-level jobs
@@ -21,6 +22,6 @@ So far, I have built:
 - [Twitter](https://x.com/HairunHuang)
 - [Discord](https://discord.gg/d6jK3Sr3ng)
 - [LinkedIn](https://www.linkedin.com/in/hairun-huang-886842b1/)
-- [TikTok](https://www.tiktok.com/@runbuilds)
+- [TikTok](https://www.tiktok.com/@budgeteats)
 - [YouTube](https://www.youtube.com/@runbuilds/videos)
 - [Email](mailto:hello@runbuilds.xyz)
